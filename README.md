@@ -45,7 +45,7 @@ git clone https://github.com/xectrone/group-message-collector-telegram-bot.git
 Navigate into the cloned directory:
 
 ```bash
-cd group-message-collector
+cd group-message-collector-telegram-bot
 ```
 
 ### 2. Install Dependencies

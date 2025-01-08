@@ -1,4 +1,4 @@
-# Group Message Collector Bot
+# Group Message Collector Telegram Bot
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0.20-green)
 ![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-20.5-blue)
